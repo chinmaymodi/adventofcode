@@ -1,4 +1,3 @@
-from calendar import c
 import time
 timestart = time.time()
 file = "4/smallinput.txt"
