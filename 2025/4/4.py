@@ -43,8 +43,6 @@ with open(file, 'r') as inputfile:
                     if (ni, nj) not in seen and (ni, nj) not in seen:
                         if neighbors[ni][nj] <= 4:
                             part2check.add((ni, nj))
-        
-    
 
 print('Final answer is:')
 print(ans1)

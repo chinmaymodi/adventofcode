@@ -37,8 +37,6 @@ with open(file, 'r') as inputfile:
                 ans1 += 1
     for i in intervals:
         ans2 += i[1] - i[0] + 1
-        
-    
 
 print('Final answer is:')
 print(ans1)
