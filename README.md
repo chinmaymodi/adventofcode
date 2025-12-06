@@ -1,5 +1,5 @@
-# Advent of Code
-My codes for advent of code
+# [Advent of Code](https://adventofcode.com/)
+My solutions.
 
 2025 Personal Leaderboard:
 
@@ -10,3 +10,4 @@ My codes for advent of code
 |3|00:06:22|00:13:17|00:06:55|~0.01s|
 |4|01:15:01|01:18:33|00:03:32|~0.12s|
 |5|01:50:07|01:50:54|00:00:47|~0.01s|
+|6|01:11:46|01:26:36|00:14:50|~0.02s|
