@@ -36,8 +36,7 @@ with open(file, 'r') as inputfile:
                         ans1 += 1
                         base[i] = '.'
     ans2 = sum(base3)
-        
-        
+
 print('Final answer is:')
 print(ans1)
 print(ans2)
