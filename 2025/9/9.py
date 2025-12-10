@@ -6,7 +6,6 @@ file = "9/biginput.txt"
 ans1 = 0
 ans2 = 0
 reds = []
-redreach = []
 lr = 0
 with open(file, 'r') as inputfile:
     filelines = inputfile.readlines()
