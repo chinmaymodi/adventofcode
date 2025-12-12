@@ -15,4 +15,6 @@ My solutions.
 |8|03:05:52|03:25:00|00:19:08|~0.40s|
 |9|00:37:49|03:55:28|03:17:39|~0.40s|
 |10|04:11:02|06:24:26|02:13:24|~2.00s|
-|11|00:19:43 |00:51:17|00:31:34|~0.01s|
+|11|00:19:43|00:51:17|00:31:34|~0.01s|
+|12|07:09:20|07:09:27|00:00:07|~0.01s|
+- Ignore the fact that I did not sanity check the input on day 12 before spending over 3 hours trying to come up with an efficient irregular packing algorithm.
