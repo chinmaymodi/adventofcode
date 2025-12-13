@@ -1,4 +1,4 @@
-# [Advent of Code](https://adventofcode.com/)
+# [Advent of Code 2025](https://adventofcode.com/2025)
 My solutions.
 
 2025 Personal Leaderboard:
